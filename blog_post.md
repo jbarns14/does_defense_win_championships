@@ -1,4 +1,4 @@
-# "Defense wins championships": The coach's fallacy?
+# "Defense wins championships": Coach's fact or fallacy?
 ## Analyzing whether this popular coach's axiom holds true in the context of NCAA men's basketball
 
 "Offense wins games… Defense wins championships!" - an axiom that every athlete has heard from their coaches at every level of the game. As young athletes we don't question whether the phrase carries any truth or whether it's just meant to get us to stop thinking about our own points tally and start playing some defense, but as a data science student I am now in a position to do just that. In keeping with the season, as MarchMadness is upon us, I will explore the truthfulness of this quote in the context of NCAA basketball. In this article, I outline the process I used to clean and visualize the data from 10 NCAA Division I men's basketball seasons and how I used logistic regression to discern whether offense or defense have a stronger impact on winning championships.
